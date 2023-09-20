@@ -27,6 +27,9 @@ DEBUG = True
 
 
 
+
+
+#space added
 ALLOWED_HOSTS = []
 
 
